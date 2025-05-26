@@ -8,9 +8,9 @@ BOT_TOKEN = '8086701406:AAGKpDDVNysglDTLCtrXSvdWw98DlsczVQs'
 
 ADMIN_IDS = []
 
-GMAIL_SENDER = "baoboi5328@gmail.com"
-GMAIL_PASSWORD = "123789aA"
-GMAIL_RECEIVER = "baoboi5328@gmail.com"
+GMAIL_SENDER = "baoboitele@gmail.com"
+GMAIL_PASSWORD = "123456aA@"
+GMAIL_RECEIVER = "baoboitele@gmail.com"
 
 qr_image_data = None
 
